@@ -25,5 +25,6 @@
 <br>
 <br>
 
-[![Oreoluwa's github activity graph](https://activity-graph.herokuapp.com/graph?username=ore-craftman&bg_color=f9fbfb&color=696969&line=12caab&point=3b8180&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Oreoluwa's github activity graph](https://activity-graph.herokuapp.com/graph?username=ore-craftman&bg_color=f9fbfb&color=696969&line=12caab&point=3b8180&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+ -->
