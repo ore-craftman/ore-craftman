@@ -7,7 +7,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Working on  [DevJobs](https://devjobs-xi.vercel.app/)
+- 🔭 Building  [DevJobs](https://devjobs-xi.vercel.app/)
   
 - 💬 Ask me about All things MERN Stack, Typescript, DSA, Web Application Testing, Bash Scripting and Automation
   
