@@ -1,5 +1,5 @@
 
-<h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Oreoluwa </h1>
+<h1>Oreoluwa </h1>
 <p align='center'>
 </p>
   
